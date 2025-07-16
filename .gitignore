@@ -1,0 +1,27 @@
+# Ignore all .txt files (input/output data)
+*.txt
+
+# Ignore object files, static & dynamic libraries
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.lib
+*.dylib
+
+# Ignore compiled binaries/executables
+*.exe
+*.out
+*.app
+
+# Ignore macOS system files
+.DS_Store
+
+# Editor swap/temp files
+*.swp
+*~
+
+
+# Logs
+*.log
